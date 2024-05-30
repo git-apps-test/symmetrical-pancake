@@ -12,6 +12,10 @@
     {
       "id": "Page1",
       "isDefault": true
+    },
+    {
+      "id": "spaced without anything",
+      "isDefault": false
     }
   ]
 }
